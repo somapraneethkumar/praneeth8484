@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  background: rgb(209, 213, 182);
+  color:blue;
+  }
+  
+  .Todo-Item:hover .trash-icon{
+    display:block;
+  }
